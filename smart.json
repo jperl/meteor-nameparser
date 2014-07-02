@@ -3,6 +3,6 @@
   "description": "nameparser repackaged for meteor.",
   "homepage": "https://github.com/jperl/meteor-nameparser",
   "author": "Jon Perl <perl.jonathan@gmail.com>",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "git": "https://github.com/jperl/meteor-nameparser"
 }
