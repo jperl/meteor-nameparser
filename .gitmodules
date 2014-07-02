@@ -1,0 +1,3 @@
+[submodule "nameparser"]
+	path = nameparser
+	url = https://github.com/joshfraser/JavaScript-Name-Parser.git
